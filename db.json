@@ -22,15 +22,21 @@
     ]
   },
   "Layer3": {
-    "firstPlayer": [
-      "4,057 total passing yards",
-      "2016",
-      "CHAD JOHONSON"
-    ],
-    "secondPlayer": [
-      "4,057 total passing yards",
-      "2017",
-      "ANTONIO GATES"
-    ]
+    "firstPlayer": {
+      "text": [
+        "4,057 total passing yards",
+        "2016",
+        "CHAD JOHONSON"
+      ],
+      "rating": 5
+    },
+    "secondPlayer": {
+      "text": [
+        "4,057 total passing yards",
+        "2017",
+        "ANTONIO GATES"
+      ],
+      "rating": 3
+    }
   }
 }
