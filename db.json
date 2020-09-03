@@ -1,6 +1,24 @@
 {
-  "Layer": [],
-  "Layer2": [],
+  "Layer": {
+    "firstTeam": [
+      "CINCINNATI BENGALS",
+      "2016"
+    ],
+    "secondTeam": [
+      "LOS ANGELES CHARGERS",
+      "2017"
+    ]
+  },
+  "Layer2": {
+    "firstPlayer": [
+      "2016",
+      "ANTONIO GATES"
+    ],
+    "secondPlayer": [
+      "2016",
+      "ANTONIO GATES"
+    ]
+  },
   "Layer3": {
     "firstPlayer": [
       "4,057 total passing yards",
