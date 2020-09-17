@@ -1,8 +1,8 @@
 {
   "data": [
-    {"id": 1, "date": "10.16.2015", "client": "Nikalogic", "name": "uCat 2019 Q1", "total": "15 500", "currency": "USD", "status": "Paid", "project": {"id": 12, "name": "DM32"}},
-    {"id": 2, "date": "10.01.2020", "client": "Nikalogic", "name": "uCat 2019 Q1", "total": "6 500", "currency": "USD", "status": "Voided", "project": {"id": 12, "name": "DM32"}},
-    {"id": 3, "date": "09.09.2019", "client": "Nikalogic", "name": "uCat 2019 Q1", "total": "11 500", "currency": "USD", "status": "Paid", "project": {"id": 12, "name": "DM32"}},
-    {"id": 4, "date": "11.30.2015", "client": "Nikalogic", "name": "uCat 2019 Q1", "total": "6 500", "currency": "USD", "status": "test", "project": {"id": 12, "name": "DM32"}}
+    {"id": 1, "date": "10-16-2015", "client": "Nikalogic", "name": "uCat 2019 Q1", "total": "15 500", "currency": "USD", "status": "Paid", "project": {"id": 12, "name": "DM32"}},
+    {"id": 2, "date": "10-01-2020", "client": "Nikalogic", "name": "uCat 2019 Q1", "total": "6 500", "currency": "USD", "status": "Voided", "project": {"id": 12, "name": "DM32"}},
+    {"id": 3, "date": "09-09-2019", "client": "Nikalogic", "name": "uCat 2019 Q1", "total": "11 500", "currency": "USD", "status": "Paid", "project": {"id": 12, "name": "DM32"}},
+    {"id": 4, "date": "11-30-2015", "client": "Nikalogic", "name": "uCat 2019 Q1", "total": "6 500", "currency": "USD", "status": "test", "project": {"id": 12, "name": "DM32"}}
   ]
 }
