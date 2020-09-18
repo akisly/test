@@ -11,6 +11,6 @@
       {"id": 2, "date": "2020-10-01", "task": "CECHT-1: Agent Screens UX-UI Design Working on issue CECHT-1", "item": "UX-UI Design", "currency": "USD", "hours": "4", "project": {"id": 12, "name": "DM32"}},
       {"id": 3, "date": "2019-09-09", "task": "CECHT-1: Agent Screens UX-UI Design Working on issue CECHT-1", "item": "UX-UI Design", "currency": "USD", "hours": "2", "project": {"id": 12, "name": "DM32"}},
       {"id": 4, "date": "2015-11-30", "task": "CECHT-1: Agent Screens UX-UI Design Working on issue CECHT-1", "item": "UX-UI Design", "currency": "USD", "hours": "4", "project": {"id": 12, "name": "DM32"}}
-    ],
+    ]
   }
 }
