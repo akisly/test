@@ -4,5 +4,13 @@
     {"id": 2, "date": "2020-10-01", "client": "Nikalogic", "name": "uCat 2019 Q1", "total": "6 500", "currency": "USD", "status": "Voided", "project": {"id": 12, "name": "DM32"}},
     {"id": 3, "date": "2019-09-09", "client": "Nikalogic", "name": "uCat 2019 Q1", "total": "11 500", "currency": "USD", "status": "Paid", "project": {"id": 12, "name": "DM32"}},
     {"id": 4, "date": "2015-11-30", "client": "Nikalogic", "name": "uCat 2019 Q1", "total": "6 500", "currency": "USD", "status": "Draft", "project": {"id": 12, "name": "DM32"}}
-  ]
+  ],
+  "billing": {
+    "data": [
+      {"id": 1, "date": "2015-10-16", "task": "CECHT-1: Agent Screens UX-UI Design Working on issue CECHT-1", "item": "UX-UI Design", "currency": "USD", "hours": "2", "project": {"id": 12, "name": "DM32"}},
+      {"id": 2, "date": "2020-10-01", "task": "CECHT-1: Agent Screens UX-UI Design Working on issue CECHT-1", "item": "UX-UI Design", "currency": "USD", "hours": "4", "project": {"id": 12, "name": "DM32"}},
+      {"id": 3, "date": "2019-09-09", "task": "CECHT-1: Agent Screens UX-UI Design Working on issue CECHT-1", "item": "UX-UI Design", "currency": "USD", "hours": "2", "project": {"id": 12, "name": "DM32"}},
+      {"id": 4, "date": "2015-11-30", "task": "CECHT-1: Agent Screens UX-UI Design Working on issue CECHT-1", "item": "UX-UI Design", "currency": "USD", "hours": "4", "project": {"id": 12, "name": "DM32"}}
+    ],
+  }
 }
