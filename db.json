@@ -12,5 +12,13 @@
       {"id": 3, "date": "2019-09-09", "task": "CECHT-1: Agent Screens UX-UI Design Working on issue CECHT-1", "item": "UX-UI Design", "currency": "USD", "hours": "2", "project": {"id": 12, "name": "DM32"}},
       {"id": 4, "date": "2015-11-30", "task": "CECHT-1: Agent Screens UX-UI Design Working on issue CECHT-1", "item": "UX-UI Design", "currency": "USD", "hours": "4", "project": {"id": 12, "name": "DM32"}}
     ]
+  },
+  "feedbacks": {
+    "data": [
+      {"id": 1, "date": "2015-10-16", "manager": "Sergey Holin", "communication": "They are issues", "development": "Good", "payment": "They are issues", "prospects": "We spend more time for co...", "status": "Completed", "project": {"id": 12, "name": "DM32"}},
+      {"id": 2, "date": "2020-10-01", "manager": "Sergey Holin", "communication": "They are issues", "development": "Good", "payment": "They are issues", "prospects": "We spend more time for co...", "status": "Completed", "project": {"id": 12, "name": "DM32"}},
+      {"id": 3, "date": "2019-09-09", "manager": "Sergey Holin", "communication": "They are issues", "development": "Good", "payment": "They are issues", "prospects": "We spend more time for co...", "status": "Completed", "project": {"id": 12, "name": "DM32"}},
+      {"id": 4, "date": "2015-11-30", "manager": "Sergey Holin", "communication": "They are issues", "development": "Good", "payment": "They are issues", "prospects": "We spend more time for co...", "status": "Completed", "project": {"id": 12, "name": "DM32"}}
+    ]
   }
 }
