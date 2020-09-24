@@ -15,8 +15,8 @@
   },
   "feedbacks": {
     "data": [
-      {"id": 1, "date": "2015-10-16", "manager": "Sergey Holin", "communication": "They are issues", "development": "Good", "payment": "They are issues", "prospects": "We spend more time for co...", "status": "Completed", "project": {"id": 12, "name": "DM32"}},
-      {"id": 2, "date": "2020-10-01", "manager": "Sergey Holin", "communication": "They are issues", "development": "Good", "payment": "They are issues", "prospects": "We spend more time for co...", "status": "Completed", "project": {"id": 12, "name": "DM32"}},
+      {"id": 1, "date": "2015-10-16", "manager": "Sergey Holin", "communication": "They are issues", "development": "Good", "payment": "They are issues", "prospects": "Culpa sunt ipsum ex incididunt minim id sit. Excepteur reprehenderit incididunt adipisicing ullamco eiusmod dolor consequat ipsum aliquip ea sint eiusmod minim. Amet quis sint consectetur consectetur nisi irure velit in id reprehenderit. Anim pariatur amet dolor cupidatat mollit.", "status": "Completed", "project": {"id": 12, "name": "DM32"}},
+      {"id": 2, "date": "2020-10-01", "manager": "Sergey Holin", "communication": "They are issues", "development": "Good", "payment": "They are issues", "prospects": "Culpa sunt ipsum ex incididunt minim id sit. Excepteur reprehenderit incididunt adipisicing ullamco eiusmod dolor consequat ipsum aliquip ea sint eiusmod minim. Amet quis sint consectetur consectetur nisi irure velit in id reprehenderit. Anim pariatur amet dolor cupidatat mollit.", "status": "Completed", "project": {"id": 12, "name": "DM32"}},
       {"id": 3, "date": "2019-09-09", "manager": "Sergey Holin", "communication": "They are issues", "development": "Good", "payment": "They are issues", "prospects": "We spend more time for co...", "status": "Completed", "project": {"id": 12, "name": "DM32"}},
       {"id": 4, "date": "2015-11-30", "manager": "Sergey Holin", "communication": "They are issues", "development": "Good", "payment": "They are issues", "prospects": "We spend more time for co...", "status": "Completed", "project": {"id": 12, "name": "DM32"}}
     ]
